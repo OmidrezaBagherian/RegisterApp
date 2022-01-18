@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="white_100">#FFFAFAFA</color>
+    <color name="sasquatch_socks">#FFFD3E84</color>
+    <color name="navy_blue">#FF1976d3</color>
+    <color name="blue_100">#FFA8F0FE</color>
+    <color name="pink_100">#FFFF2DD2</color>
 </resources>
